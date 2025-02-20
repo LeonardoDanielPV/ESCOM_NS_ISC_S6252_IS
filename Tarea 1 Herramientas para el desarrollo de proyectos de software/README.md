@@ -19,3 +19,6 @@ Así, accediendo desde un anvegador al enlace
 **http://localhost:8080/greeting?name=Spring**
 
 Se podrá ver "Hello, Spring!".
+
+
+Nota: En vez de usar XAMPP, para un mejor entendimiento se decidio instalar MySQL, Apache, PHP, phpMyAdmin manualmente.
