@@ -21,4 +21,4 @@ Así, accediendo desde un anvegador al enlace
 Se podrá ver "Hello, Spring!".
 
 
-Nota: En vez de usar XAMPP, para un mejor entendimiento se decidio instalar MySQL, Apache, PHP, phpMyAdmin manualmente.
+Nota: En vez de usar XAMPP, se decidio instalar MySQL, Apache, PHP y phpMyAdmin manualmente para un mejor entendimiento y profundización.
