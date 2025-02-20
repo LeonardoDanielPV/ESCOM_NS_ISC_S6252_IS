@@ -12,7 +12,7 @@ Además, contiene la prueba del endpoint desde un navegador.
 
 Para ejecutar el proyecto se debe descargar la carpeta **holaspring**, luego desde la terminal dirigirse a esta misma, y ejecutar el siguiente comando:
 
-**java -jar target/gs-rest-service-0.1.0.jar**
+**java -jar target/holaspring-0.0.1-SNAPSHOT.jar**
 
 Así, accediendo desde un anvegador al enlace
 
