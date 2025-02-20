@@ -14,7 +14,7 @@ Para ejecutar el proyecto se debe descargar la carpeta **holaspring**, luego des
 
 **java -jar target/holaspring-0.0.1-SNAPSHOT.jar**
 
-Así, accediendo desde un anvegador al enlace
+Así, accediendo desde un navegador al enlace
 
 **http://localhost:8080/greeting?name=Spring**
 
