@@ -14,11 +14,11 @@ Para ejecutar el proyecto se debe descargar la carpeta **holaspring**, luego des
 
 **java -jar target/holaspring-0.0.1-SNAPSHOT.jar**
 
-Así, accediendo desde un anvegador al enlace
+Así, accediendo desde un navegador al enlace
 
 **http://localhost:8080/greeting?name=Spring**
 
 Se podrá ver "Hello, Spring!".
 
 
-Nota: En vez de usar XAMPP, para un mejor entendimiento se decidio instalar MySQL, Apache, PHP, phpMyAdmin manualmente.
+Nota: En vez de usar XAMPP, se decidio instalar MySQL, Apache, PHP y phpMyAdmin manualmente para un mejor entendimiento y profundización.
